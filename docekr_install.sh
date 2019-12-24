@@ -1,7 +1,7 @@
 #!/bin/bash
 
 <<commentout
-$ bash <(curl -s )
+$ bash <(curl -s https://raw.githubusercontent.com/hibiking-0422/docker_install/master/docekr_install.sh)
 
 #update
 sudo yum -y update

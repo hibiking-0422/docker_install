@@ -1,7 +1,7 @@
 #!/bin/bash
 
 <<commentout
-$ bash <(curl -s https://raw.githubusercontent.com/hibiking-0422/docker_install/master/docekr_install.sh)
+$ bash <(curl -s https://raw.githubusercontent.com/hibiking-0422/docker_install/master/golang_install.sh)
 commentout
 
 #update

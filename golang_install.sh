@@ -10,6 +10,9 @@ sudo yum -y update
 #git install
 sudo yum -y install git
 
+#vim install
+sudo yum -y install vim
+
 #docker install
 sudo yum install -y yum-utils device-mapper-persistent-data lvm2
 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
